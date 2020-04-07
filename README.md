@@ -1,2 +1,0 @@
-# directg
-accordian pane
